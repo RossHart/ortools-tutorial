@@ -1,6 +1,6 @@
 # OR Tools tutorial 
 
-Tutorial for linear programming training presented at pyData Global 2021.
+Tutorial for linear programming training presented at [pyData Global 2021](https://www.youtube.com/watch?v=rA4QHmjqo1c).
 
 To complete the tutorial you need:
 
